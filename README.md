@@ -1,2 +1,2 @@
 # Competitive-programming-
-Codeforces - Java Solutions
+Codeforces - Java and C++ Solutions
