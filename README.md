@@ -1,2 +1,2 @@
-# Competitive-programming-
+# Competitive-programming
 Codeforces - Java and C++ Solutions
